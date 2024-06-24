@@ -465,3 +465,10 @@ div[id^='kp_box_'] {
 #remuneration {
     display: none !important;
 }
+
+.maximize{
+    width: 100%;
+}
+.hide100{
+    display: none;
+}
